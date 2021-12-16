@@ -1,0 +1,54 @@
+.img-circle { 
+	border-radius: 10px;
+}
+
+.shadowed {
+	box-shadow: 5px 5px 3px black 
+}
+
+#leader { 
+	border: 5px solid white;
+}
+
+body { 
+	background-color:lightgrey;
+	color: black;
+	font-family: Times;
+}
+	
+h1{ 
+	color: darkblue;
+    font-family: Arial;
+
+}
+
+h2{
+	color indianred;
+	font-family:courier;
+}
+div{
+	background: white;
+	border: 2px solid black;
+	margin: 40px;	
+}
+
+img{
+	width: 30%;
+}
+.text-center{
+	text-align: center;
+}
+.media{
+	text-left
+}
+	
+	 
+
+
+
+
+
+ 
+
+
+    
